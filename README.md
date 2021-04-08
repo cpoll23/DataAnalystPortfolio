@@ -1,4 +1,4 @@
-# DataAnalystPortfolio
+# Data Analyst Portfolio
 
 A portfolio of my work done thus far as a data analyst fellow.
 
